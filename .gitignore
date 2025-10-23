@@ -12,8 +12,8 @@ target/
 *.exe
 
 # Resultados y figuras
-results_*.csv
-figs/
+# results_*.csv
+# figs/
 
 # SO
 .DS_Store
