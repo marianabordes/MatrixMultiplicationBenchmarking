@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+*.class
+target/
+
+# C
+*.o
+*.exe
+
+# Resultados y figuras
+results_*.csv
+figs/
+
+# SO
+.DS_Store
+Thumbs.db
